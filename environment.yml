@@ -1,0 +1,23 @@
+name: AssignmentNo2
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - jupyter
+  - nbstripout
+  - seaborn
+  - scikit-learn
+  - scikit-optimize
+  - tqdm
+  - future
+  - pytorch
+  - torchvision
+  - os
+  - datetime
+  - warnings
+  - scipy
